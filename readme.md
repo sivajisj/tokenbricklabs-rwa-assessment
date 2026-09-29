@@ -1,5 +1,6 @@
 # RWA-b: RWA Tokenization Platform – Initial Proof of Concept (PoC)
 
+
 ## Overview
 
 This repository contains the initial version of Proof of Concept (PoC) for the RWA Tokenization Platform. The purpose of this project is to validate the core architecture, business workflows, and technical feasibility of tokenizing real-world assets through a secure and scalable web platform.
